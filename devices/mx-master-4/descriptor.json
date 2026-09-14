@@ -46,7 +46,7 @@
     { "controlId": "0x00C3", "buttonIndex": 5, "defaultName": "Gesture button",   "defaultActionType": "gesture-trigger",   "configurable": true  },
     { "controlId": "0x00C4", "buttonIndex": 6, "defaultName": "Shift wheel mode", "defaultActionType": "smartshift-toggle", "configurable": true  },
     { "controlId": "0x0000", "buttonIndex": 7, "defaultName": "Thumb wheel",      "defaultActionType": "default",           "configurable": true  },
-    { "controlId": "0x01A0", "buttonIndex": 8, "defaultName": "Action Ring",      "defaultActionType": "default",           "configurable": true  }
+    { "controlId": "0x01A0", "buttonIndex": 8, "defaultName": "Haptic thumb pad", "defaultActionType": "default",           "configurable": true  }
   ],
   "hotspots": {
     "buttons": [
